@@ -11,4 +11,8 @@ class BinarySearchTreeTest < Minitest::Test
     assert_instance_of BinarySearchTree, @tree
   end
 
+  def test_insert
+
+  end
+
 end
